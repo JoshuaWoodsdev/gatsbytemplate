@@ -2,7 +2,7 @@
   "name": "gatsbytemplate",
   "version": "1.0.0",
   "private": true,
-  "description": "gatsbytemplate",
+  "description": "gatsbytemplate template you can use to base your gatsby projects on. includes a simple layour and folder setup",
   "author": "Joshua Woods",
   "keywords": [
     "gatsby"
