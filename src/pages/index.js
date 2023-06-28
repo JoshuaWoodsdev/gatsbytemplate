@@ -130,7 +130,7 @@ const IndexPage = () => {
         Congratulations
         <br />
         <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
-      </h1>
+      </h1>gfh
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
         update in real-time. 😎
